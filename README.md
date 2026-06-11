@@ -21,7 +21,7 @@ Estágio ou posição júnior em desenvolvimento de software, onde eu possa apli
 ### 📬 Contato
 
 - 📧 **E-mail:** [rlhenriques@outlook.com](mailto:rlhenriques@outlook.com)
-- 💼 **LinkedIn:** [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/rafael-lima-henriques/)
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/rafael-lima-henriques/](https://www.linkedin.com/in/rafael-lima-henriques/)
 
 ### 🤖 Linguagens e Tecnologias
 
