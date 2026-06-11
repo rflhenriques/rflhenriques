@@ -16,7 +16,7 @@ Estudante de Sistemas de Informação pela UniAcademia (conclusão em dez/2026) 
 
 ### 📈 Objetivo
 
-Estágio ou posição júnior em desenvolvimento de software, onde eu possa aplicar meus conhecimentos em programação e infraestrutura, evoluir tecnicamente e contribuir ativamente com a equipe.
+Posição júnior em desenvolvimento de software, onde eu possa aplicar meus conhecimentos em programação e infraestrutura para evoluir tecnicamente e contribuir ativamente com a equipe.
 
 ### 📬 Contato
 
