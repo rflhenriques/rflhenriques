@@ -49,7 +49,5 @@ Estágio ou posição júnior em desenvolvimento de software, onde eu possa apli
 
 ### 📊 Estatísticas
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rflhenriques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rflhenriques&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="Top Langs" />
 </p>
