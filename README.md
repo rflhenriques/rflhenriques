@@ -1,53 +1,55 @@
 ## 👋 Olá, eu sou o Rafael Lima Henriques!
 
+<div align="center">
+  <a href="https://github.com/rflhenriques">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rflhenriques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rflhenriques&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+  </a>
+</div>
+
 ---
 
-💻 Desenvolvedor de Software em formação | Supervisor de Suporte Técnico
-🚀 Graduando em Sistemas de Informação (7º período)
-📍 Juiz de Fora, MG - Brasil
+🚀 **AI Builder | Desenvolvedor Python & Automações | Supervisor de Suporte Técnico**  
+📍 Juiz de Fora, MG - Brasil  
+🎓 Sistemas de Informação - UniAcademia (Previsão de conclusão: Dezembro/2027)
 
 ### 🧠 Sobre mim
 
-Estudante de Sistemas de Informação pela UniAcademia (conclusão em dez/2026) e atual Supervisor de Suporte Técnico na Lance Replay. Possuo experiência diária com configuração de hardwares (Arduino e Raspberry Pi), automação, pequenas modificações em códigos de sistemas internos e atendimento a clientes. Em paralelo, estou desenvolvendo meu TCC voltado para uma solução em IoT. Construo projetos focados em Java, Python (FastAPI) e arquitetura de software, buscando uma oportunidade na área de Desenvolvimento de Software para aplicar minha vivência técnica, evoluir na criação de sistemas e contribuir com um time experiente.
+Sou um perfil **Builder** focado em identificar gargalos operacionais e transformar problemas reais de negócio em produtos eficientes. Atualmente, atuo como Supervisor de Suporte Técnico na Lance Replay, onde crio ferramentas tecnológicas de ponta a ponta que economizam horas reais de trabalho e melhoram a experiência do cliente.
 
-### 🎓 Formação
+Tenho experiência avançada na utilização de **Inteligência Artificial (Claude, ChatGPT, Gemini)** como alavanca de produtividade para desenvolvimento ágil, engenharia de prompts e análise de dados. Meu foco de desenvolvimento está no ecossistema **Python (Flask, FastAPI)**, integração de APIs, automação de rotinas em background e arquitetura de software, sempre buscando aplicar uma mentalidade *AI First* na resolução de desafios.
 
-- Graduando em Sistemas de Informação - UniAcademia, Centro Universitário - Juiz de Fora, MG (2023 – 2026)
+### 💻 Projetos em Destaque
 
-### 📈 Objetivo
+- 📦 **[Sistema de Rastreio de Envios e Automação Operacional](https://github.com/rflhenriques/rastreio):** Plataforma web (Python/Flask) completa para acompanhamento logístico, integrada com a API Oficial dos Correios. Reduziu chamados de suporte ao unificar etapas internas com rastreio externo e gerar notificações automatizadas via WhatsApp.
+- 🚑 **Sistema Inteligente de Detecção de Quedas (IoT & ML):** Pesquisa e desenvolvimento em saúde (TCC) integrando sensores inerciais (MPU6050) ao Arduino Nano, com processamento de Machine Learning na borda utilizando Raspberry Pi 4.
+- 🍔 **Gestão para Hamburgueria:** Aplicação estruturada em Java simulando o fluxo operacional e de atendimento do setor de *food service*, com forte aplicação de padrões de projeto (Design Patterns).
 
-Posição júnior em desenvolvimento de software, onde eu possa aplicar meus conhecimentos em programação e infraestrutura para evoluir tecnicamente e contribuir ativamente com a equipe.
+### 🛠️ Tecnologias e Ferramentas
+
+**Desenvolvimento & Dados:**
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+
+**Inteligência Artificial & Produtividade:**
+<br>
+<img src="https://img.shields.io/badge/Prompt_Engineering-FF9900?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+
+**Hardware, Nuvem & Infraestrutura:**
+<br>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 ### 📬 Contato
 
-- 📧 **E-mail:** [rlhenriques@outlook.com](mailto:rlhenriques@outlook.com)
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/rafael-lima-henriques/](https://www.linkedin.com/in/rafael-lima-henriques/)
-
-### 🤖 Linguagens e Tecnologias
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" title="FastAPI" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" title="Arduino" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="Raspberry Pi" title="Raspberry Pi" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
-</p>
-
-### 📊 Estatísticas
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rflhenriques&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="Top Langs" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-lima-henriques/)
+[![Outlook](https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rlhenriques@outlook.com)
