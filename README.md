@@ -1,11 +1,5 @@
 ## 👋 Olá, eu sou o Rafael Lima Henriques!
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rflhenriques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rflhenriques&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="Linguagens mais usadas" />
-</p>
-
----
 
 🚀 **AI Builder | Desenvolvedor Python & Automações | Supervisor de Suporte Técnico**  
 📍 Juiz de Fora, MG - Brasil  
